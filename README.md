@@ -6,6 +6,10 @@ The canonical skills live in `skills/`. The included installer copies selected s
 
 ## Available skills
 
+### `developing-nextjs-app-router-interfaces`
+
+Guidance for Next.js App Router and React interface work, covering Server/Client Component boundaries, component composition, data fetching, API integration, forms, UI states, responsive behavior, accessibility, and implementation quality.
+
 ### `developing-vanilla-web-interfaces`
 
 Guidance for framework-free frontend work with HTML, CSS, and vanilla JavaScript, covering project-aware reuse, BEM, design tokens, CSS architecture, responsive behavior, components, and accessibility.
