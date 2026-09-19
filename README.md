@@ -6,6 +6,10 @@ The canonical skills live in `skills/`. The included installer copies selected s
 
 ## Available skills
 
+### `building-typescript-rest-apis`
+
+Guidance for project-aware TypeScript REST API work, covering HTTP boundaries, runtime validation, authentication and authorization, error handling, Prisma/PostgreSQL persistence, transactions, security, and behavior-focused API testing.
+
 ### `developing-nextjs-app-router-interfaces`
 
 Guidance for Next.js App Router and React interface work, covering Server/Client Component boundaries, component composition, data fetching, API integration, forms, UI states, responsive behavior, accessibility, and implementation quality.
