@@ -6,6 +6,10 @@ The canonical skills live in `skills/`. The included installer copies selected s
 
 ## Available skills
 
+### `building-typescript-rest-apis`
+
+Guidance for project-aware TypeScript REST API work, covering HTTP boundaries, runtime validation, authentication and authorization, error handling, Prisma/PostgreSQL persistence, transactions, security, and behavior-focused API testing.
+
 ### `developing-vanilla-web-interfaces`
 
 Guidance for framework-free frontend work with HTML, CSS, and vanilla JavaScript, covering project-aware reuse, BEM, design tokens, CSS architecture, responsive behavior, components, and accessibility.
